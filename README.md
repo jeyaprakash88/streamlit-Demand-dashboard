@@ -34,6 +34,9 @@ Immerse yourself in the art of tailoring your dashboard's aesthetics. Tweak colo
 ## Usage
 Comprehensive instructions will guide you through the project setup, dataset integration, and the seamless execution of the Streamlit app.
 
+## Screenshot
+![Login Screenshot](/demo.JPG?raw=true "Login Form")
+
 ## Contributing
 Be part of our community! We welcome your contributions, whether through issue submissions, feature requests, or pull requests.
 
